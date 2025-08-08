@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "Brand": "airmax",
+    "Model": "nike",
+    "Buy Price": 10.0,
+    "Listed Price": 50.0,
+    "Condition": "new",
+    "Size": 6,
+    "Platform": "vinted"
+  },
+  {
+    "Brand": "nike",
+    "Model": "arimax",
+    "Buy Price": 19.0,
+    "Listed Price": 59.0,
+    "Condition": "new",
+    "Size": 5,
+    "Platform": "vinted"
+  }
+]
